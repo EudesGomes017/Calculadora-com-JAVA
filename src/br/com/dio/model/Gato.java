@@ -9,9 +9,6 @@ public class Gato {
 		
 	public Gato() {}
 	
-	/* para criar o construtor pela IDE segura control + 3 e abrira uma janela e digita construtor e vai aparecer as opções
-	 */
-	
 	public Gato(String nome, String cor, Integer idade) {
 		this.nome = nome;
 		this.cor = cor;
